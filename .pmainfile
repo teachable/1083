@@ -1,0 +1,1 @@
+{"mainfile":"Challenge.java","compilemenucommand":"javac -classpath '.' Challenge.java","runmenucommand":"java -classpath '.' Challenge","testmenucommand":"> .testcaseop && :> .testcaseop2 && sh ./test.sh > ./.testcaseop","showterminal":true,"showQuestionInPopup":true}
